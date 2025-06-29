@@ -10,8 +10,6 @@
 |  7. | Sherlock | [Crestal Network](https://audits.sherlock.xyz/contests/755) |  [📄](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/107) | 1H |
 |  8.  |  Codehawks  | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) | [📄](https://codehawks.cyfrin.io/c/2025-02-raac/results)  |4H/3M/4L|
 
-**_Aggregated Profile_** : https://audits.sherlock.xyz/watson/0xaudron
-
 # Private Audits :
 | Company | Report |
 |----------|---------|
