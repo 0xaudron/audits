@@ -15,5 +15,6 @@
 |  6. | Code4rena | [Liquid Ron](https://code4rena.com/audits/2025-01-liquid-ron) |  [📄]([https://code4rena.com/evaluate/2024-12-lambowin/submissions/S-697](https://code4rena.com/evaluate/2025-01-liquid-ron/submissions/S-482)) | 1M |
 |  7. | Sherlock | [Crestal Network](https://audits.sherlock.xyz/contests/755) |  [📄](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/107) | 1H |
 |  8.  |  Codehawks  | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac) | [📄](https://codehawks.cyfrin.io/c/2025-02-raac/results)  |4H/3M/4L|
+| 9. |Cantina| [Telcoin](https://cantina.xyz/competitions/26d5255b-6f68-46cf-be55-81dd565d9d16) | [📄](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/findings?s=-status%253Aspam%252Cwithdrawn%2520created_by%253A0xaudron%252Cdivyaranjan) |1H/2M/4I|
 
 
