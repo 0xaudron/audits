@@ -2,6 +2,9 @@
 | Company | Firm | Report |
 |----------|---|--------- |
 | Tradfi  | [Cyfrin](https://www.cyfrin.io/) | Private | 
+|Aztec|[Cyfrin](https://www.cyfrin.io/)| Private |
+|Uranium Digital| Immunefi / AdevarLabs| Private |
+|Alvara|AdevarLabs|Private|
 
 
 # Contest Audits : 
