@@ -5,6 +5,7 @@
 |Aztec|[Cyfrin](https://www.cyfrin.io/)| Private |
 |Uranium Digital| Immunefi / AdevarLabs| Private |
 |Alvara|AdevarLabs|Private|
+|Metamask|[Cyfrin](https://www.cyfrin.io/)|[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-05-cyfrin-metamask-connect-v2.0.pdf|
 
 
 # Contest Audits : 
