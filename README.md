@@ -5,6 +5,7 @@
 |Aztec|[Cyfrin](https://www.cyfrin.io/)| Private |
 |Uranium Digital| Immunefi / AdevarLabs| Private |
 |Alvara|AdevarLabs|Private|
+|Avon|Valkyri Security| Private|
 |Metamask|[Cyfrin](https://www.cyfrin.io/)|[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-05-cyfrin-metamask-connect-v2.0.pdf)|
 Polygun | Pashov Audit Group | TBR|
 Ostium | Pashov Audit Group | TBR|
