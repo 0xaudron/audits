@@ -50,7 +50,7 @@
 ## CVE Researcher at Wordfence, Patchstack:
 - [**CVE-2023-6747**](https://www.wordfence.com/threat-intel/vulnerabilities/detail/foogallery-premium-233-authenticated-contributor-stored-cross-site-scripting) : FooGallery plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the custom attributes in all versions up to, and including, 2.3.3 due to insufficient input sanitization and output escaping. 
 - [**CVE-2023-41875**](https://patchstack.com/database/wordpress/plugin/wpdirectorykit/vulnerability/wordpress-wp-directory-kit-plugin-1-2-6-broken-access-control-vulnerability?_s_id=cve) : Missing Authorization vulnerability in wpdirectorykit.com WP Directory Kit allows Exploiting Incorrectly Configured Access Control Security Levels.
-- [**CVE-2023-40607**]([https://nvd.nist.gov/vuln/detail/CVE-2023-40607](https://patchstack.com/database/wordpress/plugin/cluevo-lms/vulnerability/wordpress-cluevo-lms-plugin-1-10-0-cross-site-request-forgery-csrf-vulnerability)) : The CLUEVO LMS, E-Learning Platform plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 1.10.0.
+- [**CVE-2023-40607**](https://patchstack.com/database/wordpress/plugin/cluevo-lms/vulnerability/wordpress-cluevo-lms-plugin-1-10-0-cross-site-request-forgery-csrf-vulnerability) : The CLUEVO LMS, E-Learning Platform plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 1.10.0.
 - [**CVE-2024-24715**](https://patchstack.com/database/wordpress/plugin/bookit/vulnerability/wordpress-wordpress-bookit-plugin-plugin-2-4-0-price-bypass-vulnerability-vulnerability) : BookIt plugin for WordPress is vulnerable to Price Bypass in versions up to and including 2.4.0.
 
 
