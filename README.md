@@ -41,10 +41,10 @@
 | Alvara| AdevarLabs| Private|
 | Avon | Valkyri Security | Private |
 | Metamask|Cyfrin|[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-05-cyfrin-metamask-connect-v2.0.pdf)|
-| Polygun | Pashov Audit Group | Private |
+| Polygun | Pashov Audit Group | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Polygun-security-review_2026-02-17.pdf) |
 | Ostium | Pashov Audit Group | Private |
-| Polygun | Pashov Audit Group| Private |
-| Polygun | Pashov Audit Group| Private |
+| Polygun | Pashov Audit Group| [Report](https://github.com/pashov/audits/blob/master/team/pdf/Polygun-security-review_2026-03-25.pdf) |
+| Polygun | Pashov Audit Group| [Report](https://github.com/pashov/audits/blob/master/team/pdf/Polygun-security-review_2026-04-16.pdf) |
 | Ostium | Pashov Audit Group| Private |
 
 ## CVE Researcher at Wordfence, Patchstack:
