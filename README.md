@@ -33,8 +33,9 @@
 - Valkyri Security: https://valkyrisec.com
 
 
-| Company | Firm | Type |
+| Protocol | Firm | Type |
 |----------|---|--------- |
+|Synthetix Auto-compound |Guardian Audits| Private|
 | Tradfi  | Cyfrin | Private | 
 | Aztec | Cyfrin| Private |
 | Uranium Digital| Immunefi / AdevarLabs| Private |
