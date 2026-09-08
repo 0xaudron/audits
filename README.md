@@ -61,7 +61,7 @@
 **CVE Reversing and created nuclei templates for automated scanning:** https://github.com/arpeetrathii/CVE-Reversing
 
 ## Research / Blogs / Writeups : 
-- [How to Hack a Web3 Wallet (Legally): A Full-Stack Pentesting Guide](https://blog.valkyrisec.com/how-to-hack-a-web3-wallet-legally-a-full-stack-pentesting-guide/))
+- [How to Hack a Web3 Wallet (Legally): A Full-Stack Pentesting Guide](https://blog.valkyrisec.com/how-to-hack-a-web3-wallet-legally-a-full-stack-pentesting-guide/)
 - [x402 Integration Security: A Technical Deep Dive](https://blog.valkyrisec.com/x402-integration-security/)
 - [Top 10 Ways Soroban Contracts Get Hacked](https://blog.valkyrisec.com/top-10-ways-soroban-contracts-get-hacked/)
 - [Your Code Is Audited, Your Keys Aren’t: Why Drains Keep Happening to Web3 Builders and Users](https://blog.valkyrisec.com/your-code-is-audited-your-keys-arent-why-drains-keep-happening-to-web3-builders-and-users/)
