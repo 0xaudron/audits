@@ -48,6 +48,8 @@
 | Polygun | Pashov Audit Group| [Report](https://github.com/pashov/audits/blob/master/team/pdf/Polygun-security-review_2026-04-16.pdf) |
 | Ostium | Pashov Audit Group| Private |
 | Algoxen |Hackenproof| [Report](https://algoxen.com/assets/Algoxen%20Final%20Report-DORqZHix.pdf)|
+|AitoNFT|Hackenproof|[Report](https://github.com/ChainAI-Networks-GmbH/aitonft-contracts/blob/main/security-audits/01-aitonft-hackenproof-final-audit-report-2026-06-29.pdf)|
+|Dualguard|Valkyri Security|Private|
 
 ## CVE Researcher at Wordfence, Patchstack:
 - [**CVE-2023-6747**](https://www.wordfence.com/threat-intel/vulnerabilities/detail/foogallery-premium-233-authenticated-contributor-stored-cross-site-scripting) : FooGallery plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the custom attributes in all versions up to, and including, 2.3.3 due to insufficient input sanitization and output escaping. 
